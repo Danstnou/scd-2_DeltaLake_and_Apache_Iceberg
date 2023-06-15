@@ -1,0 +1,16 @@
+# Project exclude paths
+/common/project/target/
+/common/target/
+/common/target/scala-2.12/classes/
+/launch/project/target/
+/launch/target/
+/launch/target/scala-2.12/classes/
+/project/project/target/
+/project/target/
+/scd2-DeltaLake/project/target/
+/scd2-DeltaLake/target/
+/scd2-DeltaLake/target/scala-2.12/classes/
+/scd2-Iceberg/project/target/
+/scd2-Iceberg/target/
+/scd2-Iceberg/target/scala-2.12/classes/
+/target/
